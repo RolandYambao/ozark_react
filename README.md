@@ -1,2 +1,2 @@
-# OzarkReact
+# Ozark React
 React Version of Ozark
