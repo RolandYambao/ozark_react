@@ -16,6 +16,7 @@ nav.navbar {
 }
 .navbar-item.brand-text {
   font-weight: 300;
+  background-color: #FFFFFF;
 }
 .navbar-item, .navbar-link {
   font-size: 14px;
