@@ -30,12 +30,13 @@ nav.navbar {
   font-weight: 700;
 }
 .menu-list a {
-  color: #FFFFFF;
+  color: #000000;
   font-size: 14px;
   font-weight: 700;
+  background-color: transparent
 }
 .menu-list a:hover {
-  background-color: transparent;
+  background-color: #000000;
   color: #276cda;
 }
 .menu-list a.is-active {
