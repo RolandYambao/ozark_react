@@ -21,6 +21,7 @@ nav.navbar {
 .navbar-item, .navbar-link {
   font-size: 14px;
   font-weight: 700;
+  background-color: #FFFFFF;
 }
 .columns {
   width: 100%;
