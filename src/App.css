@@ -76,6 +76,7 @@ nav.navbar {
 }
 .hero.welcome .title, .hero.welcome .subtitle {
   color: hsl(192, 17%, 99%);
+  background-color: #FFFFFF;
 }
 .card .content {
   font-size: 14px;
