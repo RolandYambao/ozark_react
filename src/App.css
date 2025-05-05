@@ -54,11 +54,11 @@ nav.navbar {
 }
 .info-tiles {
   margin: 1rem 0;
-  background-color: #FFFFFF;
 }
 .info-tiles .subtitle {
   font-weight: 300;
   color: #8F99A3;
+  background-color: #FFFFFF;
 }
 .hero.welcome.is-info {
   background: #36D1DC;
