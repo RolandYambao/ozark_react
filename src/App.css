@@ -54,10 +54,9 @@ nav.navbar {
 }
 .info-tiles {
   margin: 1rem 0;
-  color: #FFFFFF;
 }
-.info-tiles .title {
-  margin: 1rem 0;
+.tile {
+    color: #FFFFFF;
 }
 .info-tiles .subtitle {
   font-weight: 300;
