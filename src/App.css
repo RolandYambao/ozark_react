@@ -30,6 +30,7 @@ nav.navbar {
   color: #8F99A3;
   letter-spacing: 1.3;
   font-weight: 700;
+  background-color: #FFFFFF;
 }
 .menu-list a {
   color: #000000;
@@ -87,13 +88,16 @@ nav.navbar {
   font-size: 14px;
   font-weight: 700;
   color: #8F99A3;
+  background-color: #FFFFFF;
 }
 .card-footer-item:hover {
 }
 .card-table .table {
   margin-bottom: 0;
+  background-color: #FFFFFF;
 }
 .events-card .card-table {
   max-height: 250px;
   overflow-y: scroll;
+  background-color: #FFFFFF;
 }
